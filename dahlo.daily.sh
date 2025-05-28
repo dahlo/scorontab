@@ -11,7 +11,7 @@ DELAY=24hours
 #DELAY=7days
 
 # Get the full path and dir name of the current script
-SCRIPT_PATH=/cfs/klemming/home/m/mdahlo/testarea/scorontab/dahlo.10m.sh
+SCRIPT_PATH=/cfs/klemming/home/m/mdahlo/testarea/scorontab/dahlo.daily.sh
 SCRIPT_NAME=$(basename $SCRIPT_PATH)
 DIR_PATH=$(dirname $SCRIPT_PATH)
 
